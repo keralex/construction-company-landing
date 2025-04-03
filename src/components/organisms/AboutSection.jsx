@@ -20,7 +20,7 @@ function AboutSection() {
           <img
             src={teamImage || "/placeholder.svg"}
             alt="Equipo de Aedil"
-            className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full"
+            className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center  h-full sm:w-full"
           />
           <div className="flex flex-col justify-center space-y-4">
             <div className="grid gap-6">

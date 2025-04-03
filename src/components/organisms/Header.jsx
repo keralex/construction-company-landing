@@ -19,7 +19,6 @@ function Header({ onAboutClick, onProjectsClick, onContactClick }) {
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex gap-6">
-            <button className="text-sm font-medium transition-colors hover:text-primary-600">Inicio</button>
             <button onClick={onAboutClick} className="text-sm font-medium transition-colors hover:text-primary-600">
               Nosotros
             </button>
@@ -51,7 +50,6 @@ function Header({ onAboutClick, onProjectsClick, onContactClick }) {
         <div className="absolute top-16 left-0 right-0 bg-white border-b md:hidden">
           <Container>
             <div className="py-2 flex flex-col">
-              <button className="py-2 text-sm font-medium">Inicio</button>
               <button
                 onClick={() => {
                   onAboutClick()
