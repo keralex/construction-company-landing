@@ -2,9 +2,9 @@ import Container from "../atoms/Container"
 import Heading from "../atoms/Heading"
 import Button from "../atoms/Button"
 import ProjectCard from "../molecules/ProjectCard"
-import project1Image from "../../assets/project1.jpg"
-import project2Image from "../../assets/project2.jpg"
-import project3Image from "../../assets/project3.jpg"
+import project1Image from "../../assets/project1.png"
+import project2Image from "../../assets/project2.png"
+import project3Image from "../../assets/project3.png"
 
 function ProjectsSection() {
   return (

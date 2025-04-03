@@ -5,9 +5,9 @@ import Container from "../atoms/Container"
 import Heading from "../atoms/Heading"
 
 // Importa las imágenes directamente
-import bannerImage1 from "../../assets/banner1.jpg"
-import bannerImage2 from "../../assets/banner2.jpg"
-import bannerImage3 from "../../assets/banner3.jpg"
+import bannerImage1 from "../../assets/banner1.png"
+import bannerImage2 from "../../assets/banner2.png"
+import bannerImage3 from "../../assets/banner3.png"
 
 const slides = [
   {

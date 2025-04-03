@@ -2,7 +2,7 @@ import { HardHat, Ruler, Hammer, Truck } from "lucide-react"
 import Container from "../atoms/Container"
 import Heading from "../atoms/Heading"
 import FeatureItem from "../molecules/FeatureItem"
-import teamImage from "../../assets/team.jpg"
+import teamImage from "../../assets/team.png"
 
 function AboutSection() {
   return (
